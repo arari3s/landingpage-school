@@ -96,9 +96,7 @@
       </div>
 
       <div class="mx-auto lg:px-16 md:px-20 px-8 py-8">
-        <div
-          class="mt-16 border-t border-serv-border sm:flex justify-between w-100"
-        >
+        <div class="border-t border-slate-500 sm:flex justify-between w-100">
           <div class="flex items-left mt-8">
             <h1 class="text-slate-200 text-2xl font-bold">SMK BP MARGASARI</h1>
           </div>
